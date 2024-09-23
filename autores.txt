@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 MaiteKuhn/maikuhn@live.com
+=======
+Usuario: josesoco08\nCorreo: josefinasocobehere.com
+>>>>>>> a477f1ac1e3ac1b9920fd0de9265386f600bea15
